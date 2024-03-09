@@ -1,15 +1,28 @@
 {
   "name": "my-task-manager",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Simple Task Manager with my-task-management-api",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vanzzdark/my-task-manager.git"
+  },
+  "keywords": [
+    "npm",
+    "express",
+    "task-management",
+    "task-manager"
+  ],
+  "author": {
+    "name": "vanzzdark",
+    "email": "pradana134@gmail.com"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "my-task-management-api": "^1.0.5"
+    "my-task-management-api": "^1.0.6"
   }
 }
